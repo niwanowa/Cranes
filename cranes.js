@@ -1,4 +1,4 @@
 function OnButtonClick() {
 	target = document.getElementById("output");
-	target.innerHTML = "Penguin";
+	target.innerHTML = "鶴";
 }
